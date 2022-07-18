@@ -1,0 +1,130 @@
+{
+
+"questions":[
+{
+"questionText" : "Number of Primitive data types in Java are?",
+"options" : [{"text" : "8", "correct": true}, {"text" : "9"} , {"text" : "7"}, {"text" : "6"}]},
+
+{
+    "questionText" : "What is the size of float and double in Java?",
+    "options" : [{"text" : "32 and 32"}, 
+    {"text" : "32 and 64", "correct": true},
+    {"text" : "64 and 64"},
+    {"text" : "64 and 32"}
+]},
+
+{
+        "questionText" : "Automatic type conversion is possible in which of the possible cases?",
+    "options" : [{"text" : "Byte to int"}, 
+    {"text" : "Int to long", "correct": true},
+    {"text" : "Long to int"},
+    {"text" : "Short to int"}
+]},
+
+{
+    "questionText" : "When an array is passed to a method, what does the method receive?",
+"options" : [{"text" : "The reference of the Array", "correct": true}, 
+{"text" : "A copy of the Array"},
+{"text" : "Length of the Array"},
+{"text" : "Copy of first Element"}
+]},
+
+{
+    "questionText" : "Select the valid statement to declare and initialize an Array?",
+"options" : [{"text" : "int[]A = {}"}, 
+{"text" : "int[] A= {1, 2, 3}"},
+{"text" : "int[]A = (1, 2, 3)", "correct": true},
+{"text" : "int[][]A ={1, 2, 3}"}
+]},
+
+{
+    "questionText" : "Arrays in Java are -",
+"options" : [{"text" : "Objects", "correct": true}, 
+{"text" : "Object References"},
+{"text" : "Primitive Data Type"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "When is the object created with new Keyword?",
+"options" : [{"text" : "At Compile Time"}, 
+{"text" : "At run Time", "correct": true},
+{"text" : "Depends on the code"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "Identify the correct definition of package..",
+"options" : [{"text" : "A package is a collection of editing tools"}, 
+{"text" : "A package is a collection of classes"},
+{"text" : "A package is a collection of interfaces"},
+{"text" : "A package is a collection of classes and interfaces", "correct": true}
+]},
+
+{
+    "questionText" : "Identify the keyword among the following that makes a variable belong to a class, rather than being defined for each instance of the class",
+"options" : [{"text" : "final"}, 
+{"text" : "Static", "correct": true},
+{"text" : "volatile"},
+{"text" : "abstract"}
+]},
+
+{
+    "questionText" : "In which of the following is toString() method defined?",
+"options" : [{"text" : "java.lang.Object", "correct": true}, 
+{"text" : "java.lang.String"},
+{"text" : "java.lang.util"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "When is the object created with new Keyword?",
+"options" : [{"text" : "True"}, 
+{"text" : "An int value", "correct": true},
+{"text" : "False"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "Identify the return type of a method that does not return any value",
+"options" : [{"text" : "int"}, 
+{"text" : "void", "correct": true},
+{"text" : "double"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "Identify the modifier which cannot be used for constructor",
+"options" : [{"text" : "static", "correct": true}, 
+{"text" : "public"},
+{"text" : "protected"},
+{"text" : "private"}
+]},
+
+{
+    "questionText" : "What is the implicit return type of constructor?",
+"options" : [{"text" : "No return type"}, 
+{"text" : "A class object in which it is defined", "correct": true},
+{"text" : "void"},
+{"text" : "None"}
+]},
+
+{
+    "questionText" : "Where is System class is defined?",
+"options" : [{"text" : "java.util.package"}, 
+{"text" : "java.lang.package", "correct": true},
+{"text" : "java.io.package"},
+{"text" : "None"}
+]}
+
+
+
+
+
+
+
+
+
+
+
+]}
